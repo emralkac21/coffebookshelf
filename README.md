@@ -1,4 +1,4 @@
-# 📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
+# 🍵📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
 <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e3780bce-9749-49d8-b453-a1a2ecc763a8" />
 
 <p align="center">
