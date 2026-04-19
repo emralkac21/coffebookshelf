@@ -19,14 +19,18 @@ BookShelf; okuma listeni yönetmeni, her kitap için seans bazlı zamanlayıcı 
 
 | Ana Sayfa | Kütüphane (Grid) | Timer |
 |-----------|-----------------|-------|
-| <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e3780bce-9749-49d8-b453-a1a2ecc763a8" /> | Kapak, durum rozeti, ilerleme çubuğu | Büyük sayaç, pause/resume, otomatik seans kaydı |
+| <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e3780bce-9749-49d8-b453-a1a2ecc763a8" /> | <img width="1919" height="1079" alt="Screenshot_2" src="https://github.com/user-attachments/assets/81783d05-b81a-49af-8eb6-7ed0e51fe40b" />
+ | <img width="1919" height="1079" alt="Screenshot_3" src="https://github.com/user-attachments/assets/3b47f94d-316b-4ea6-8eee-7a015640f689" /> |
+
 
 | İstatistikler | Hedefler | Kitap Detayı |
 |---------------|----------|--------------|
-| Matplotlib bar/pie/heatmap | Yıllık ilerleme çubukları | 4 sekme: ilerleme, seanslar, notlar, alıntılar |
+| <img width="1919" height="1079" alt="Screenshot_4" src="https://github.com/user-attachments/assets/a418c5b5-2c2d-4606-be0c-d7dd793b99c4" /> | <img width="1919" height="1079" alt="Screenshot_5" src="https://github.com/user-attachments/assets/aadfaa7f-dde4-4074-ba50-3bb90adb8099" /> | <img width="1919" height="1079" alt="Screenshot_6" src="https://github.com/user-attachments/assets/aa92bfe0-83a0-46a8-acce-403a20492104" /> |
 
 ---
 
+<img width="1919" height="1079" alt="Screenshot_7" src="https://github.com/user-attachments/assets/fedad62d-3fd5-477c-9f6e-5e1db5d96850" />
+<img width="1919" height="1079" alt="Screenshot_8" src="https://github.com/user-attachments/assets/388e50b0-b703-4960-b307-007adc8563b5" />
 ## ✨ Özellikler
 
 ### 🏠 Ana Sayfa / Dashboard
