@@ -1,5 +1,5 @@
+<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/64fb1016-a8a8-42c5-ace6-5454d6cb6148" />
 # 🍵📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
-<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e3780bce-9749-49d8-b453-a1a2ecc763a8" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" />
@@ -19,7 +19,7 @@ BookShelf; okuma listeni yönetmeni, her kitap için seans bazlı zamanlayıcı 
 
 | Ana Sayfa | Kütüphane (Grid) | Timer |
 |-----------|-----------------|-------|
-| Streak, bu ay istatistikleri, şu an okunanlar | Kapak, durum rozeti, ilerleme çubuğu | Büyük sayaç, pause/resume, otomatik seans kaydı |
+| <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e3780bce-9749-49d8-b453-a1a2ecc763a8" /> | Kapak, durum rozeti, ilerleme çubuğu | Büyük sayaç, pause/resume, otomatik seans kaydı |
 
 | İstatistikler | Hedefler | Kitap Detayı |
 |---------------|----------|--------------|
