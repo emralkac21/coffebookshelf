@@ -106,7 +106,7 @@ Ayrıca: **yarım yıldız destekli derecelendirme**, başlama/bitiş tarihi, ki
 
 ```bash
 # 1. Projeyi indir veya klonla
-git clone https://github.com/kullanici/bookshelf.git
+git clone [https://github.com/kullanici/bookshelf.git]https://github.com/emralkac21/coffebookshelf.git
 cd bookshelf
 
 # 2. (İsteğe bağlı) Sanal ortam oluştur
