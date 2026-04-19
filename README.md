@@ -1,5 +1,6 @@
-<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/64fb1016-a8a8-42c5-ace6-5454d6cb6148" />
+
 # 🍵📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
+<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/64fb1016-a8a8-42c5-ace6-5454d6cb6148" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" />
