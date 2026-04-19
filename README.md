@@ -1,6 +1,7 @@
 
 # 🍵📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
 <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/64fb1016-a8a8-42c5-ace6-5454d6cb6148" />
+<img width="640" height="360" alt="coffebookshelf" src="https://github.com/user-attachments/assets/0f62f0eb-85a3-4a9e-8f84-44741b293df9" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" />
