@@ -1,4 +1,10 @@
 
+---
+
+Uygulama rehberi için: https://youtu.be/oDkcTJtw1-M
+
+---
+
 # 🍵📖 CoffeBookShelf — Kişisel Okuma Takip Uygulaması
 <img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/64fb1016-a8a8-42c5-ace6-5454d6cb6148" />
 
